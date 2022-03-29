@@ -8,7 +8,7 @@ using UnityEngine;
 
 public class Ejercicio03 : MonoBehaviour
 {
-    string txt = "Guido";
+    public string txt;
     // Start is called before the first frame update
     void Start()
     {
