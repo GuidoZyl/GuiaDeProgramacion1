@@ -15,15 +15,15 @@ public class Ejercicio09 : MonoBehaviour
     public string nom2;
     public string nom3;
 
-    public int cap1;
-    public int cap2;
-    public int cap3;
+    public float cap1;
+    public float cap2;
+    public float cap3;
 
-    int por1;
-    int por2;
-    int por3;
+    float por1;
+    float por2;
+    float por3;
 
-    int monto;
+    float monto;
     // Start is called before the first frame update
     void Start()
     {
